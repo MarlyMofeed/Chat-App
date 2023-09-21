@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628197813993",
+    "project_id": "flash-chat-c8000",
+    "storage_bucket": "flash-chat-c8000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628197813993:android:b5f921bacc5dffd56d8a78",
+        "android_client_info": {
+          "package_name": "com.MarlyMofeed.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjtc6QJAZxyDS9Wd85NshpUcYK7Evfq48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
